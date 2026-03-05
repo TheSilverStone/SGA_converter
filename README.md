@@ -1,22 +1,35 @@
-# Standard Galactic Alphabet Keyboard Extension
+# Standard Galactic Alphabet Keyboard App
 
 ## Overview
-The Standard Galactic Alphabet (SGA) keyboard extension allows users to easily type in the Standard Galactic Alphabet, which is often used in various science fiction contexts.
+The Standard Galactic Alphabet Keyboard app allows users to type in the Standard Galactic Alphabet, enabling easy communication in this fictional language.
+
+## Features
+- Easy-to-use interface
+- Support for all characters in the Standard Galactic Alphabet
+- Customizable keyboard layout
 
 ## Installation
-1. Download the extension from [link_to_download].
-2. Follow the installation instructions specific to your operating system.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/TheSilverStone/SGA_converter.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd SGA_converter
+   ```
+3. Install the necessary dependencies:
+   ```bash
+   npm install
+   ```
 
 ## Usage
-- Once installed, you can switch to the SGA keyboard layout from your system settings.
-- Use the layout to type in SGA letters corresponding to the standard alphabet.
+- To start the application, run the following command:
+  ```bash
+  npm start
+  ```
 
-## Shortcuts
-- `Ctrl + Shift + S`: Toggle SGA keyboard layout
+### Contribution
+Contributions are welcome! Please submit a pull request or open an issue for discussion.
 
-## Troubleshooting
-- Ensure that the extension is correctly installed and activated in your system settings.
-- For any issues, refer to the support page at [link_to_support].
-
-## Contact
-For further assistance, please reach out to [support_contact].
+## License
+This project is licensed under the MIT License.
